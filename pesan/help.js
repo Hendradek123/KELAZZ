@@ -62,6 +62,7 @@ exports.allmenu = (sender, prefix, pushname, isOwner, isPremium, balance, limit,
   ✾ ${prefix}sound3
   ✾ ${prefix}sound4
   ✾ ${prefix}sound5
+  ✾ ${prefix}Bot.mp3
 
   *❒ Downloader (MediaFire Dalam Perbaikan)*
   ✾ ${prefix}play *Query*
@@ -294,12 +295,4 @@ exports.allmenu = (sender, prefix, pushname, isOwner, isPremium, balance, limit,
 
   *THANKS TO*
   - My God
-  - Baileys-Md (Adiwa Jshing)
-  - @irfann._x (Iyan)
-  - @arsrfi.jpg (Arasya)
-  - M Hadi Firmansya (Hadi Api)
-  - @melcanz_ (Amel)
-  - @${setting.Instagram} (Owner)
-  - @chris.tianid (Christian ID)
-  - @hardianto.xyz (Anto)`
-}
+  - Hendraa-MD
